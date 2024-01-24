@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingleResponsibilityPrincip
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenClosedPrinciple", "OpenClosedPrinciple\OpenClosedPrinciple.csproj", "{59D1C27C-4FF8-4452-A37E-1D3EFCB92B60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiskovSubstitutionPrinciple", "LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple.csproj", "{78A5626D-4BD9-46C9-8927-D3BC3F8B6897}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiskovSubstitutionPrinciple", "LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple.csproj", "{78A5626D-4BD9-46C9-8927-D3BC3F8B6897}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSegregationPrinciple", "InterfaceSegregationPrinciple\InterfaceSegregationPrinciple.csproj", "{97DE4838-4213-4FA4-860B-D17DEF2D05E5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{78A5626D-4BD9-46C9-8927-D3BC3F8B6897}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78A5626D-4BD9-46C9-8927-D3BC3F8B6897}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78A5626D-4BD9-46C9-8927-D3BC3F8B6897}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97DE4838-4213-4FA4-860B-D17DEF2D05E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97DE4838-4213-4FA4-860B-D17DEF2D05E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97DE4838-4213-4FA4-860B-D17DEF2D05E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97DE4838-4213-4FA4-860B-D17DEF2D05E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
